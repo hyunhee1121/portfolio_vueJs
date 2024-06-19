@@ -67,6 +67,14 @@
                         title="Hyunhee Lee LinkedIn"
                         >LinkedIn</a>
                     </li>
+                    <li class="list-inline-item">
+                    <a
+                        class="btn"
+                        href="https://medium.com/@hleebh"
+                        target="_blank"
+                        title="Hyunhee Lee Medium"
+                        >Medium</a>
+                    </li>
                     <!-- TODO: calendlyが必要になったらコメントアウト
                     <li class="d-none list-inline-item">
                         <a
