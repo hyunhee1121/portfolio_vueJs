@@ -97,19 +97,39 @@
                     {{ $t("About_Japan") }}
                     <div id="japanCareer" class="flex flex-wrap flex-jc-center row">
                         <div class="flipper col-sm-4 my-3">
+                          <div class="card card-flip h-100">
+                            <div class="card-front text-white bg-info">
+                              <div class="card-body">
+                                <i class="fa fa-arrow-circle-right fa-5x float-right"></i>
+                                <h3 class="card-title">{{ $t("FandMnet Co.,Ltd.") }}</h3>
+                                <h5 class="card-title">{{ $t("FandMnet Period") }}</h5>
+                                <p class="card-title">Osaka, JAPAN</p>
+                                <h5 class="card-text">{{ $t("FandMnet-1") }}</h5>
+                              </div>
+                            </div>
+                            <div class="card-back bg-white">
+                              <div class="card-body">
+                                <h4 class="card-text"><a href="https://www.fandmnet.com/" target="_blank">https://www.fandmnet.com/</a></h4>
+                                <p class="card-text mt-2">・{{ $t("Standard Group") }}</p>
+                                <p class="card-text">・{{ $t("FandMnet-2") }}</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="flipper col-sm-4 my-3">
                             <div class="card card-flip h-100">
                                 <div class="card-front text-white bg-primary">
                                     <div class="card-body">
                                         <i class="fa fa-arrow-circle-right fa-5x float-right"></i>
                                         <h3 class="card-title">{{ $t("Smaregi Inc.") }}</h3>
-                                        <h5 class="card-title">{{ $t("Jun. 2021 to Present") }}</h5>
+                                        <h5 class="card-title">{{ $t("Jun. 2021 to May. 2023") }}</h5>
                                         <p class="card-title">Osaka, JAPAN</p>
                                         <h5 class="card-text">{{ $t("Smaregi-1") }}</h5>
                                     </div>
                                 </div>
                                 <div class="card-back bg-white">
                                     <div class="card-body">
-                                        <h4 class="card-text"><a href="https://smaregi.jp/">https://smaregi.jp/</a></h4>
+                                        <h4 class="card-text"><a href="https://smaregi.jp/" target="_blank">https://smaregi.jp/</a></h4>
                                         <p class="card-text mt-2">・{{ $t("Growth") }}</p>
                                         <p class="card-text">・{{ $t("Smaregi-2") }}</p>
                                     </div>
@@ -129,7 +149,7 @@
                                 </div>
                                 <div class="card-back bg-white">
                                     <div class="card-body">
-                                        <h4 class="card-title"><a href="https://adinte.co.jp/">https://adinte.co.jp/</a></h4>
+                                        <h4 class="card-title"><a href="https://adinte.co.jp/" target="_blank">https://adinte.co.jp/</a></h4>
                                         <h5 class="card-text mt-2">{{ $t("AdInte-2") }}</h5>
                                         <p class="card-text">・{{ $t("AdInte-3") }}</p>
                                         <h5 class="card-text mt-2">{{ $t("AdInte-4") }}</h5>
@@ -151,7 +171,7 @@
                                 </div>
                                 <div class="card-back bg-white">
                                     <div class="card-body">
-                                        <h4 class="card-text"><a href="https://cb-port.com/">https://cb-port.com/</a></h4>
+                                        <h4 class="card-text"><a href="https://cb-port.com/" target="_blank">https://cb-port.com/</a></h4>
                                         <p class="card-text mt-2">{{ $t("CyberPort-2") }}</p>
                                     </div>
                                 </div>
@@ -170,7 +190,7 @@
                                 </div>
                                 <div class="card-back bg-white">
                                     <div class="card-body">
-                                        <h4 class="card-text"><a href="https://livelynx.co.jp/">https://livelynx.co.jp/</a></h4>
+                                        <h4 class="card-text"><a href="https://livelynx.co.jp/" target="_blank">https://livelynx.co.jp/</a></h4>
                                         <p class="card-text mt-2">{{ $t("Livelynx-2") }}</p>
                                     </div>
                                 </div>
@@ -190,7 +210,7 @@
                                 </div>
                                 <div class="card-back bg-white">
                                     <div class="card-body">
-                                        <h4 class="card-text"><a href="https://www.cross-games.jp/">https://www.cross-games.jp/</a></h4>
+                                        <h4 class="card-text"><a href="https://www.cross-games.jp/" target="_blank">https://www.cross-games.jp/</a></h4>
                                         <p class="card-text mt-2">{{ $t("CrossGames-4") }}</p>
                                     </div>
                                 </div>
@@ -213,7 +233,7 @@
                                 </div>
                                 <div class="card-back bg-dark text-white">
                                     <div class="card-body">
-                                        <h4 class="card-title"><a href="http://www.powertro.com/">http://www.powertro.com/</a></h4>
+                                        <h4 class="card-title"><a href="http://www.powertro.com/" target="_blank">http://www.powertro.com/</a></h4>
                                         <p class="card-text mt-2">・{{ $t("Powertronics-2") }}</p>
                                         <p class="card-text">・{{ $t("Powertronics-3") }}</p>
                                         <p class="card-text">・{{ $t("Powertronics-4") }}</p>
@@ -234,7 +254,7 @@
                                 </div>
                                 <div class="card-back bg-dark text-white">
                                     <div class="card-body">
-                                        <h4 class="card-title"><a href="http://www.hskj.co.kr/xe/">http://www.hskj.co.kr/xe/</a></h4>
+                                        <h4 class="card-title"><a href="http://www.hskj.co.kr/xe/" target="_blank">http://www.hskj.co.kr/xe/</a></h4>
                                         <p class="card-text mt-2">・{{ $t("HanShinKiJeon-2") }}</p>
                                         <p class="card-text">・{{ $t("HanShinKiJeon-3") }}</p>
                                         <p class="card-text">・{{ $t("HanShinKiJeon-4") }}</p>
@@ -245,6 +265,25 @@
                     </div><!-- #koreaCareer -->
                     <h2 class="sub-title">Education</h2>
                         <div id="education" class="flex flex-wrap flex-jc-center row">
+                            <div class="flipper col-sm-4 my-3">
+                              <div class="card card-flip h-100">
+                                <div class="card-front">
+                                  <div class="card-body text-center">
+                                    <img src="@/assets/img/HKUST.svg" class="thumbnail h-25">
+                                    <i class="fa fa-search fa-5x float-right"></i>
+                                    <h5 class="card-title my-3">Feb. 2024 to Jan. 2026</h5>
+                                    <p class="card-title">HONG KONG</p>
+                                    <p class="card-text">{{ $t("HKUST1-1") }}</p>
+                                  </div>
+                                </div>
+                                <div class="card-back bg-white">
+                                  <div class="card-body">
+                                    <h3 class="card-title">{{ $t("HKUST2-1") }}</h3>
+                                    <p class="card-text">{{ $t("HKUST2-2") }}</p>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
                             <div class="flipper col-sm-4 my-3">
                                 <div class="card card-flip h-100">
                                     <div class="card-front">
@@ -260,7 +299,6 @@
                                         <div class="card-body">
                                             <h3 class="card-title">{{ $t("QU1-1") }}</h3>
                                             <p class="card-text">{{ $t("QU2-1") }}</p>
-
                                         </div>
                                     </div>
                                 </div>
@@ -315,7 +353,7 @@
                                             <img src="@/assets/img/hongdeng.jpg" class="thumbnail h-50">
                                             <i class="fa fa-search fa-5x float-right"></i>
                                             <h5 class="card-title my-3">{{ $t("福岡中国語学友会") }}</h5>
-                                            <h5 class="card-title my-3">{{ $t("2015 to 2019") }}</h5>
+                                            <h5 class="card-title my-3">{{ $t("福岡中国語学友会-2") }}</h5>
                                             <p class="card-title">Fukuoka, JAPAN</p>
                                         </div>
                                     </div>
@@ -355,14 +393,17 @@
                     <p>・{{ $t("基本情報技術者") }}</p>
                     <p>・{{ $t("色彩検定 2級") }}</p>
                     <p>・{{ $t("ファイナンシャルプランナー 3級") }}</p>
+                    <p>・{{ $t("ニュース検定") }}</p>
                     <h5 class="my-2">South Korea</h5>
                     <p>・{{ $t("전자기기기능사") }}</p>
                     <h5 class="my-2">Languages</h5>
                     <p>・{{ $t("JLPT Level 1") }}</p>
                     <p>・{{ $t("HSK Level 6") }}</p>
+                    <!--
                     <p>・TOEIC 825</p>
                     <p>・IELTS Academic Overall 6.5</p>
-                </div><!-- #content -->
+                    -->
+              </div><!-- #content -->
             </div><!-- .main -->
             <div class="footer">
                 <nav class="text-center changeLanguage mt-5">
