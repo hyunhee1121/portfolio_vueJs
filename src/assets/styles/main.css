@@ -61,6 +61,7 @@
     height: 100%;
 }
 .links {
+    display: flex; /* Flexbox 적용 */
     margin: auto;
     max-width: 536px;
     width: 100%;
@@ -69,6 +70,15 @@
     line-height: 18px;
     font-weight: 400;
 }
+
+.links .btn {
+    width: 120px;
+}
+
+.list-inline-item {
+    margin-right: 10px; /* 버튼 간 간격 조절 */
+}
+
 .link:hover {
     transition: 0s;
     font-weight: 700;
