@@ -4,11 +4,17 @@
     "NotTranslated": "아직 번역이 되지않은 부분이 있습니다.",
     "About": "안녕하세요. 대한민국 서울출신의 IT개발자 이현희 입니다.",
 
-    "About_Japan": "2017년 대학교 졸업후에는 현재까지 IT개발자로 일하고있습니다.",
+    "About_Japan": "2017년 대학교 졸업후 현재까지 IT개발자로 일하고있으며, 일본 영주권을 보유하고있습니다.",
+
+    "FandMnet Co.,Ltd.": "FandMnet Co.,Ltd.",
+    "Standard Group": "도쿄 증권 거래소 스탠다드 시장 상장 기업 그룹",
+    "FandMnet Period": "2023.06 ～ 현재",
+    "FandMnet-1": "Lead Programmer at In-house Division",
+    "FandMnet-2": "Leading the development of \"F&M Club,\" the company's flagship mobile application, utilizing Flutter and Dart for a seamless front-end user experience and modern PHP frameworks (Laravel) to power a robust back-end infrastructure.",
 
     "Smaregi Inc.": "Smaregi Inc.",
     "Growth": "도쿄증시 그로스시장 상장 기업",
-    "Jun. 2021 to Present": "2021.06 ～ 2023.05",
+    "Jun. 2021 to May. 2023": "2021.06 ～ 2023.05",
     "Smaregi-1": "개발부 개발자",
     "Smaregi-2": "모던한 PHP프레임워크(Laravel)를 사용하여 사내 프로덕트 개발",
 
@@ -52,6 +58,10 @@
     "HanShinKiJeon-3": "하드 디스크 및 프린터 부품 검사와 세척",
     "HanShinKiJeon-4": "하드 디스크 및 프린터 구성 요소를 생산하는 금형 관리",
 
+    "HKUST1-1": "Digital MBA for Global Leaders Program Intake 2023-24",
+    "HKUST2-1": "홍콩과기대학",
+    "HKUST2-2": "Master of Business Administration - MBA",
+
     "QU1-1": "규슈대학",
     "QU1-2": "예술공학부 예술정보설계학과 학사",
     "QU2-1": "4년간 규슈대학 예술공학부 예술정보설계학과에서 주로 프로그래밍에 관련된 수업을 이수했습니다.",
@@ -67,7 +77,7 @@
     "GeikoOkeDescription-3": "2015년에는 클라리넷 파트 리더가 되었습니다.",
 
     "福岡中国語学友会": "후쿠오카 중국어 학우회",
-    "2015 to 2019": "2015년 ～ 2019년",
+    "福岡中国語学友会-2": "2015년 ～ 현재",
     "福岡中国語学友会-1": "Facebook 그룹 「후쿠오카 중국어 학우회」에서 회장과 둘이서 중국어 공부회의 개최인을 맡았습니다. 많은 중화 문화권의 분들과 교류할 수 있는 귀중한 경험이 되었습니다.",
 
     "Forest Witch Description-1": "[프로젝트기간] 2015년12월 ～ 2016월1월（2개월）",
@@ -79,6 +89,7 @@
     "基本情報技術者": "기본정보기술자",
     "色彩検定 2級": "색채검정 2급",
     "ファイナンシャルプランナー 3級": "파이낸셜플래너 3급（일본FP협회）",
+    "ニュース検定": "뉴스검정 준2급",
     "전자기기기능사": "전자기기기능사",
     "JLPT Level 1": "신일본어능력시험（JLPT）1급",
     "HSK Level 6": "신한어수평고시（HSK）6급"

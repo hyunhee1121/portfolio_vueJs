@@ -1,14 +1,20 @@
 {
-    "hyunheeLee": "李 賢熹",
+    "hyunheeLee": "Lee Hyunhee",
     "Software Developer": "工程師",
     "NotTranslated": "有些頁面還沒有翻譯。",
     "About": "你好。我叫李賢熹，是來自韓國首爾的一名工程師。",
 
-    "About_Japan": "2017年大學畢業至今擔任IT工程師。",
+    "About_Japan": "2017年大學畢業至今擔任IT工程師，持有日本永久居留權。",
+
+    "FandMnet Co.,Ltd.": "FandMnet Co.,Ltd.",
+    "Standard Group": "東京證券交易所標準市場上市企業集團",
+    "FandMnet Period": "Jun. 2023 to Present",
+    "FandMnet-1": "Lead Programmer at In-house Division",
+    "FandMnet-2": "Leading the development of \"F&M Club,\" the company's flagship mobile application, utilizing Flutter and Dart for a seamless front-end user experience and modern PHP frameworks (Laravel) to power a robust back-end infrastructure.",
 
     "Smaregi Inc.": "Smaregi Inc.",
     "Growth": "東京證券交易所成長型上市公司",
-    "Jun. 2021 to Present": "2021.06 ～ 2023.05",
+    "Jun. 2021 to May. 2023": "2021.06 ～ 2023.05",
     "Smaregi-1": "開發部 工程師",
     "Smaregi-2": "使用現代PHP框架開發自家公司的產品。",
 
@@ -52,6 +58,10 @@
     "HanShinKiJeon-3": "檢查了硬盤和打印機的零件。",
     "HanShinKiJeon-4": "管理生產硬盤和打印機組件的模具。",
 
+    "HKUST1-1": "Digital MBA for Global Leaders Program Intake 2023-24",
+    "HKUST2-1": "香港科技大學",
+    "HKUST2-2": "Master of Business Administration - MBA",
+
     "QU1-1": "九州大學",
     "QU1-2": "藝術工學部 藝術情報設計學科 學士",
     "QU2-1": "在九州大學藝術工學部學習編程課程。",
@@ -67,7 +77,7 @@
     "GeikoOkeDescription-3": "2015年，我擔任了單簧管部分的領隊。",
 
     "福岡中国語学友会": "福岡中國語學友會",
-    "2015 to 2019": "2015年 ～ 2019年",
+    "福岡中国語学友会-2": "2015年 ～ 現在",
     "福岡中国語学友会-1": "在Facebook群組[福岡中國語學友會]中擔任中文學習小組的組織者。 對我來說，與許多來自中國文化的人交流是一個寶貴的經驗。",
 
     "Forest Witch Description-1": "[期間] 2015年12月～2016年1月（兩個月）",
@@ -79,6 +89,7 @@
     "基本情報技術者": "基本情報技術者",
     "色彩検定 2級": "色彩檢定 2級",
     "ファイナンシャルプランナー 3級": "3rd grade Certified Skilled Professional of Financial Planning",
+    "ニュース検定": "The NKEN Test Grade Semi-2 in News Proficiency",
     "전자기기기능사": "Craftsman Electronic Apparatus",
     "JLPT Level 1": "日本語能力測試(JLPT) 1級",
     "HSK Level 6": "漢語水平考試(HSK) 6級"

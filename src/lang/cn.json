@@ -1,14 +1,20 @@
 {
-    "hyunheeLee": "李 贤熹",
+    "hyunheeLee": "Lee Hyunhee",
     "Software Developer": "工程师",
     "NotTranslated": "有些页面还没有翻译。",
     "About": "你好。我叫李贤熹，是来自韩国首尔的一名工程师。",
 
-    "About_Japan": "2017年大学毕业至今担任IT工程师。",
+    "About_Japan": "2017年大学毕业至今担任IT工程师，持有日本永久居留权。",
+
+    "FandMnet Co.,Ltd.": "FandMnet Co.,Ltd.",
+    "Standard Group": "东京证券交易所标准市场上市企业集团",
+    "FandMnet Period": "Jun. 2023 to Present",
+    "FandMnet-1": "Lead Programmer at In-house Division",
+    "FandMnet-2": "Leading the development of \"F&M Club,\" the company's flagship mobile application, utilizing Flutter and Dart for a seamless front-end user experience and modern PHP frameworks (Laravel) to power a robust back-end infrastructure.",
 
     "Smaregi Inc.": "Smaregi Inc.",
     "Growth": "东京证券交易所成长型上市公司",
-    "Jun. 2021 to Present": "2021.06 ～ 2023.05",
+    "Jun. 2021 to May. 2023": "2021.06 ～ 2023.05",
     "Smaregi-1": "开发部 工程师",
     "Smaregi-2": "使用现代PHP框架开发自家公司的产品。",
 
@@ -52,6 +58,10 @@
     "HanShinKiJeon-3": "检查了硬盘和打印机的零件。",
     "HanShinKiJeon-4": "管理生产硬盘和打印机组件的模具。",
 
+    "HKUST1-1": "Digital MBA for Global Leaders Program Intake 2023-24",
+    "HKUST2-1": "The Hong Kong University of Science and Technology",
+    "HKUST2-2": "Master of Business Administration - MBA",
+
     "QU1-1": "九州大学",
     "QU1-2": "艺术工学部 艺术情报设计学科 学士",
     "QU2-1": "在九州大学艺术工学部学习编程课程。",
@@ -67,7 +77,7 @@
     "GeikoOkeDescription-3": "2015年，我担任了单簧管部分的领队。",
 
     "福岡中国語学友会": "福冈中国语学友会",
-    "2015 to 2019": "2015年 ～ 2019年",
+    "福岡中国語学友会-2": "2015年 ～ 现在",
     "福岡中国語学友会-1": "在Facebook群组[福冈中国语学友会]中担任中文学习小组的组织者。 对我来说，与许多来自中国文化的人交流是一个宝贵的经验。",
 
     "Forest Witch Description-1": "[期间] 2015年12月～2016年1月（两个月）",
@@ -79,6 +89,7 @@
     "基本情報技術者": "基本情报技术者",
     "色彩検定 2級": "色彩检定 2级",
     "ファイナンシャルプランナー 3級": "3rd grade Certified Skilled Professional of Financial Planning",
+    "ニュース検定": "The NKEN Test Grade Semi-2 in News Proficiency",
     "전자기기기능사": "Craftsman Electronic Apparatus",
     "JLPT Level 1": "日本语能力测试(JLPT) 1级",
     "HSK Level 6": "汉语水平考试(HSK) 6级"
