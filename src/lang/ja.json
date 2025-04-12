@@ -1,14 +1,20 @@
 {
-    "hyunheeLee": "イヒョンヒ",
+    "hyunheeLee": "イ ヒョンヒ",
     "Software Developer": "ITエンジニア",
     "NotTranslated": "一部翻訳されていない部分があります。",
-    "About": "こんにちは。韓国・ソウル出身のイヒョンヒと申します。",
+    "About": "こんにちは。韓国・ソウル出身エンジニアのイ　ヒョンヒと申します。",
 
-    "About_Japan": "大学を卒業してからは現在までITエンジニアとして勤めています。",
+    "About_Japan": "大学を卒業してから一貫してITエンジニアとして勤めています。現在は日本の永住者ビザを保有しております。",
+
+    "FandMnet Co.,Ltd.": "エフアンドエムネット株式会社",
+    "Standard Group": "東証スタンダード市場上場企業グループ",
+    "FandMnet Period": "2023年6月 ～ 現在",
+    "FandMnet-1": "インハウスディビジョン リードプログラマー",
+    "FandMnet-2": "Leading the development of \"F&M Club,\" the company's flagship mobile application, utilizing Flutter and Dart for a seamless front-end user experience and modern PHP frameworks (Laravel) to power a robust back-end infrastructure.",
 
     "Smaregi Inc.": "株式会社スマレジ",
-    "Growth": "グロース市場上場企業",
-    "Jun. 2021 to Present": "2021年6月から現在",
+    "Growth": "東証グロース市場上場企業",
+    "Jun. 2021 to May. 2023": "2021年6月 ～ 2023年5月",
     "Smaregi-1": "開発部 プログラマー",
     "Smaregi-2": "モダンなPHPフレームワーク（laravel）を使い社内会計プログラムおよび自社プロダクト開発に従事。",
 
@@ -52,6 +58,10 @@
     "HanShinKiJeon-3": "ハードディスク、プリンターの部品点検",
     "HanShinKiJeon-4": "ハードディスクやプリンターの部品を生産する金型の管理",
 
+    "HKUST1-1": "Digital MBA for Global Leaders Program Intake 2023",
+    "HKUST2-1": "香港科技大学",
+    "HKUST2-2": "Master of Business Administration - MBA",
+
     "QU1-1": "九州大学",
     "QU1-2": "芸術工学部 芸術情報設計学科",
     "QU2-1": "九州大学 芸術工学部 芸術情報設計学科にて、主にプログラミングの授業を履修しました。",
@@ -67,7 +77,7 @@
     "GeikoOkeDescription-3": "2015年はクラリネットパートリーダーを務めました。",
 
     "福岡中国語学友会": "福岡中国語学友会",
-    "2015 to 2019": "2015年 ～ 2019年",
+    "福岡中国語学友会-2": "2015年 ～ 現在",
     "福岡中国語学友会-1": "Facebookグループ「福岡中国語学友会」にて会長と2人で中国語勉強会の開催人を務めました。たくさんの中華文化圏の方達と交流できる貴重な経験になりました。",
 
     "Forest Witch Description-1": "[プロジェクト期間] 2015年12月 ～ 2016年1月（2ヶ月）",
@@ -77,8 +87,9 @@
     "Forest Witch Download": "ゲームダウンロード",
 
     "基本情報技術者": "基本情報技術者",
-    "色彩検定 2級": "色彩検定 2級",
+    "色彩検定 2級": "ニュース時事能力検定準2級",
     "ファイナンシャルプランナー 3級": "ファイナンシャルプランナー 3級（日本FP協会）",
+    "ニュース検定": "ニュース検定 準2級",
     "전자기기기능사": "電子機器技能士",
     "JLPT Level 1": "新日本語能力試験（JLPT）1級",
     "HSK Level 6": "新漢語水平考試（HSK）6級"

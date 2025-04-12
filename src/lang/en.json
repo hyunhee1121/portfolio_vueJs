@@ -1,14 +1,20 @@
 {
-    "hyunheeLee": "Hyunhee Lee",
+    "hyunheeLee": "Andy, Hyunhee Lee",
     "Software Developer": "Software Developer",
     "NotTranslated": "Some pages are not translated yet.",
     "About": "Hello! I am Hyunhee Lee from Seoul, Korea. Working as a web engineer in Osaka, Japan. Nice to meet you!",
 
-    "About_Japan": "Worked as an IT Engineer from graduation from University in 2017 to present",
+    "About_Japan": "Working as an IT Engineer from graduation from University in 2017 to present. ",
+
+    "FandMnet Co.,Ltd.": "FandMnet Co.,Ltd.",
+    "Standard Group": "A Tokyo Stock Exchange Standard market listed company group",
+    "FandMnet Period": "Jun. 2023 to Present",
+    "FandMnet-1": "Lead Programmer at In-house Division",
+    "FandMnet-2": "Leading the development of \"F&M Club,\" the company's flagship mobile application, utilizing Flutter and Dart for a seamless front-end user experience and modern PHP frameworks (Laravel) to power a robust back-end infrastructure.",
 
     "Smaregi Inc.": "Smaregi Inc.",
     "Growth": "A Tokyo Stock Exchange Growth market listed company",
-    "Jun. 2021 to Present": "Jun. 2021 to Present",
+    "Jun. 2021 to May. 2023": "Jun. 2021 to May. 2023",
     "Smaregi-1": "Software Developer at Development department",
     "Smaregi-2": "Developed an in-house accounting program and own products with modern PHP frameworks(Laravel, CakePHP) and JavaScript frameworks(Vue.js, Typescript)",
 
@@ -52,6 +58,10 @@
     "HanShinKiJeon-3": "Inspected parts of hard disk and printer",
     "HanShinKiJeon-4": "Managed the molds that produced the hard disk and printer components",
 
+    "HKUST1-1": "Digital MBA for Global Leaders Program Intake 2023",
+    "HKUST2-1": "The Hong Kong University of Science and Technology",
+    "HKUST2-2": "Master of Business Administration - MBA",
+
     "QU1-1": "Kyushu University",
     "QU1-2": "Bachelor of Design, Art and Information Design",
     "QU2-1": "I took programming courses mainly at the Department of Art and Information Design, Kyushu University.",
@@ -67,10 +77,10 @@
     "GeikoOkeDescription-3": "Acted as a clarinet part leader in 2015.",
 
     "福岡中国語学友会": "Fukuoka Chinese Language Study Group",
-    "2015 to 2019": "2015 to 2019",
+    "福岡中国語学友会-2": "2015 to Present",
     "福岡中国語学友会-1": "Worked as a organizer of a Chinese study group in the Facebook group 'Fukuoka Chinese Study Group（福岡中国語学友会）'. It was a valuable experience for us to interact with many people from Chinese cultural sphere.",
 
-    "Forest Witch Description-1": "[Project period] Dec. 2016 to Jan. 2017",
+    "Forest Witch Description-1": "[Project period] Dec. 2015 to Jan. 2016",
     "Forest Witch Description-2": "[Supported Languages] Japanese, Korean, Traditional Chinese",
     "Forest Witch Description-3": "[Description] This is an action game that was created by a team when I was a university student and was submitted to the 9th Fukuoka Game Contest.",
     "Forest Witch Description-4": "",
@@ -79,6 +89,7 @@
     "基本情報技術者": "Fundamental Information Technology Engineer Examination",
     "色彩検定 2級": "Color Cordination The Second Level",
     "ファイナンシャルプランナー 3級": "3rd grade Certified Skilled Professional of Financial Planning",
+    "ニュース検定": "The NKEN Test Grade Semi-2 in News Proficiency",
     "전자기기기능사": "Craftsman Electronic Apparatus",
     "JLPT Level 1": "Japanese Language Proficiency Test Level 1",
     "HSK Level 6": "Hanyu shuiping kaoshi level 6"
