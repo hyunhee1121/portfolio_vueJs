@@ -45,7 +45,7 @@
                     <li class="list-inline-item">
                         <a
                         class="btn"
-                        href="mailto:jipai1121@gmail.com"
+                        href="mailto:hyunhee.lee1121@gmail.com"
                         subject="subject text"
                         target="_blank"
                         title="Hyunhee Lee e-mail"
@@ -54,7 +54,7 @@
                     <li class="list-inline-item">
                       <a
                         class="btn"
-                        href="https://github.com/jipai1121"
+                        href="https://github.com/hyunhee1121"
                         target="_blank"
                         title="Hyunhee Lee GitHub"
                       >Github</a>
@@ -271,7 +271,7 @@
                                   <div class="card-body text-center">
                                     <img src="@/assets/img/HKUST.svg" class="thumbnail h-25">
                                     <i class="fa fa-search fa-5x float-right"></i>
-                                    <h5 class="card-title my-3">Feb. 2024 to Jan. 2026</h5>
+                                    <h5 class="card-title my-3">Feb. 2024 to Oct. 2025</h5>
                                     <p class="card-title">HONG KONG</p>
                                     <p class="card-text">{{ $t("HKUST1-1") }}</p>
                                   </div>
